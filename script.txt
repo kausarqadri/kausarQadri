@@ -1,0 +1,7 @@
+Basic Javascript
+Data Type
+Conditional Statement
+Function
+Loop
+DOM Manipulation
+
